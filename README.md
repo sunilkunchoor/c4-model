@@ -112,6 +112,6 @@ The official C4 model also specifies three supplementary diagrams for when the s
 ---
 
 ## 🔗 References & Resources
-- (https://c4model.com/)[The Official C4 Model Website]
-- (https://mermaid.js.org/syntax/c4.html)[Mermaid C4 Syntax Documentation]
-- (https://structurizr.com/)[Structurizr] (Diagramming tool built specifically for the C4 model by Simon Brown)
+- [The Official C4 Model Website](https://c4model.com/)
+- [Mermaid C4 Syntax Documentation](https://mermaid.js.org/syntax/c4.html)
+- [Structurizr](https://structurizr.com/) (Diagramming tool built specifically for the C4 model by Simon Brown)
